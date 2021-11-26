@@ -1,5 +1,5 @@
 {
-    "name": "lkk/chat",
+    "name": "lkk/catchat",
     "description": "test to try and who",
     "type": "library",
 	"license": "MIT",
@@ -13,7 +13,7 @@
     "require": {},
 	"autoload": {
 	    "psr-4": {
-	        "Lkk\\": "src/"
+	        "Catchat\\": "src/"
 	    }
 	}
 }
