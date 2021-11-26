@@ -1,5 +1,5 @@
 <?php 
-namespace Lkk;
+namespace Catchat;
 class Index 
 {
 	public function index()
